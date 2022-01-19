@@ -13,7 +13,7 @@ function CheckoutNavbar() {
       <nav className="p-4 flex bg-white shadow-md  w-full items-center">
         <div className="container px-4 md:px-20 mx-auto">
           <div className="flex items-center justify-between w-full">
-            <a href="http://localhost:3000/"><AiOutlineArrowLeft/></a>
+            <a href="https://61e7c3be4616a0868ccffe03--vibrant-neumann-9e8160.netlify.app/"><AiOutlineArrowLeft/></a>
             <div className="w-28">
               <img
                 src="https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png"
